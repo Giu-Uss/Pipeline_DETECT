@@ -1,8 +1,8 @@
 
-# Upload Pipeline for MapVisualisation Database (Dynamic Version)
+# Upload Pipeline for MapVisualisation Database 
 
 ## Description
-This repository provides a dynamic, reusable Python pipeline for uploading DETECT project time series datasets from NetCDF (.nc) files into the PostgreSQL/PostGIS database used by the **MapVisualisation** platform.
+This repository provides a reusable Python pipeline for uploading DETECT project time series datasets from NetCDF (.nc) files into the PostgreSQL/PostGIS database used by the **MapVisualisation** platform.
 
 It performs the following operations:
 
