@@ -122,6 +122,7 @@ python upload_pipeline.py
 
 ## Collaborators
 - **PhD. Farzane Mohseni** - For DETECT database and metadata guidelines.
+- **Viktor Stroh** - For DETECT database and metadata guidelines
 
 ---
 
